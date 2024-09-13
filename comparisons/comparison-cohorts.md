@@ -8,7 +8,7 @@ description: >-
 
 Schools can be grouped into two important types of groups: "peers" and "neighbors."
 
-* **Nationwide schools like me** are made by looking at schools that are similar in certain ways, like the type of school, the number of students, the grades they offer, and the income of the nearby area. Schools that are alike in these ways get grouped together into a certain number of peer groups.
+* **Nationwide schools like me** groups are made by looking at schools that are similar in certain ways, like the type of school, the number of students, the grades they offer, and the income of the nearby area. Schools that are alike in these ways get grouped together into a certain number of peer groups. We use machine learning and k-means cluster algorithms to group like schools together.
 * **Local neighbor groups** are made up of schools that are close to each other and offer similar grades. Each school has its own group of nearby neighbors.
 
 When we want to compare schools, we look at different statistics or numbers (like enrollment, tuition, or financial aid). These statistics can be calculated for individual schools or for the whole group of schools in a peer or neighbor group.
