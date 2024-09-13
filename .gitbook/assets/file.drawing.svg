@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289 180" width="578" height="360">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nM1UyW7bMFx1MDAxML3nK1x1MDAwNOVcdTAwMWE41EItvlx1MDAxNLHbXHUwMDE0doH04Fx1MDAxNk1b9EBLtESYXHUwMDE2VZLyXHUwMDEyw//eXHUwMDExZUjy0qCXXHUwMDE21UFcdTAwMDDfzHBcdTAwMWXfPHJ/Y1m23pXUXHUwMDFlWjbdJoSzVJKNfVfjaypcdTAwMTVcdTAwMTNcdTAwMDWEXFyzVqKSicnMtS7V8P6elOUgY3ouxHKQiFVTRjld0UIrSPxcdTAwMGVry9qbf6+RpIkmRcapKTChXi//XHUwMDFjfFx1MDAxMoVp6/nY91x1MDAwM1x1MDAxY4VtXHUwMDAyU2+hm6YpRFx1MDAxN4Qr2kVqyI5fvG96PMPj8uN0untW6yj2Rl3TXHUwMDA143ymd7w5XHUwMDEzSfJK9igpLcWSfmGpziHunOFtnVx1MDAxMqBZVyVFleVcdTAwMDVV6qRGlCRheldjXGK1aKPB0OqQLaxcIi9cdTAwMWFgjFx1MDAxMPJcdTAwMTB2Qlx1MDAxY0Zt1NRcdTAwMDfeXHUwMDAwn3FcdTAwMTlcdTAwMGIuZM3lXHUwMDE2ma9jMyfJMlx1MDAwM0pF2uZoSVxuVVx1MDAxMlx0I+ryNsdTukHcYjllWa5Ny46gokZsx41i5Phu0Fx1MDAxZLFuU05SM/ZcdTAwMWbnYuVElkdRbFUvelx1MDAxNGt273qe6YqrMiXNcJ0gXGI918NR7PhBXHUwMDFi56xYQrCoODfQ4e663zTd6mtWw7+1WozBaF78505cdTAwMWKR91/Dp8+TXHUwMDA1wfNcdTAwMGY/XHUwMDFmy2c2rVx1MDAxZf57p4X+K05zneCv+cyJ8KXP3ODCZjFcZlx1MDAxY0dcYuF/arNcdTAwMDBF4LRrNutcdTAwMDYqXG49Yy+1pi46QVx1MDAxZsmK8d3JTIz/gNJEWTqnXHUwMDE2mIFaxFx1MDAxYSRq/aYvoaLQiVx1MDAxYXVOSlx1MDAxZjjLarvanC5OfaxcdTAwMTm82G1Yi955XHUwMDEzoEJgOzlJz7lcdTAwMGLJMlZcdTAwMTD+6Vx1MDAxNVrNfYK/kcmGh36mQSRIb25cdTAwMTfMgaVHXHUwMDAxus3tNaOb0aVcdTAwMTduXHUwMDE35qt3NXe0vlx1MDAwZrSewv5wc/hcdTAwMDXpXGKuJSJ9<!-- payload-end -->
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="289" height="180" fill="#ffffff"/><g stroke-linecap="round" transform="translate(10 10) rotate(0 134.5 80)"><path d="M1.21 -0.95 C75.12 3.46, 148.77 1.35, 267.67 1.36 M0.32 0.29 C79.48 -0.74, 157.46 -0.73, 268.98 0.53 M270.57 0.17 C271.78 38.03, 272.12 72.69, 270.82 158.45 M268.01 -0.91 C270.43 49.29, 269.62 100.96, 268.24 159.54 M267.79 160.27 C186.17 160.52, 104.13 161.33, 1.14 159.81 M268.34 160.67 C178.43 161.64, 89.62 161.53, -0.75 159.89 M1.01 159.27 C-0.25 118.07, 0.38 74.92, -1.9 0.2 M-0.84 160.94 C-1.97 111.63, -1.31 60.68, -0.52 -0.5" stroke="#000000" stroke-width="1" fill="none"/></g><g transform="translate(46 62.5) rotate(0 92.5 13)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Is the file a .csv?</text></g></svg>
