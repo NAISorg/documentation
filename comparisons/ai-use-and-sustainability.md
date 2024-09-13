@@ -1,3 +1,9 @@
+---
+description: >-
+  AI computing power can be resource-intensive. Read how Market View approaches
+  sustainability and AI tech.
+---
+
 # AI Use & Sustainability
 
 Market View's Comparisons AI feature uses AI technology. AI technology has come under scrutiny because of the massive computing power it requires to run.
