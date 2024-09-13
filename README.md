@@ -2,7 +2,7 @@
 description: >-
   Welcome to Market View's documentation site! Here you'll find tips and tricks
   on how to use Market View to supercharge your enrollment strategy.
-cover: .gitbook/assets/Market View Map Only Banner (1).png
+cover: .gitbook/assets/Screenshot 2024-09-13 at 4.50.45 PM.png
 coverY: 0
 layout:
   cover:
