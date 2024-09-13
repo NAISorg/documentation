@@ -10,6 +10,7 @@
 
 ## Comparisons
 
+* [AI Use & Sustainability](comparisons/ai-use-and-sustainability.md)
 * [Comparison Cohorts](comparisons/comparison-cohorts.md)
 
 ## Data <a href="#add-your-data" id="add-your-data"></a>
