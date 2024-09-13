@@ -61,6 +61,7 @@
 
 * [Glossary](glossary.md)
 * [Troubleshooting](troubleshooting/README.md)
+  * [Cannot log in](troubleshooting/cannot-log-in.md)
   * [ZIPs without data](troubleshooting/zips-without-data.md)
   * [Map is blank](troubleshooting/map-is-blank.md)
 * [❓ Submit a Help Ticket](https://my.nais.org/s/submit-a-ticket?category=DASL%2FMarket%20View)
