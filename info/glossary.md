@@ -18,7 +18,7 @@ Pronounced "core-o-pleth".&#x20;
 
 A **choropleth map** (from [Greek](https://en.m.wikipedia.org/wiki/Greek\_language) χῶρος _(choros)_ 'area/region', and πλῆθος _(plethos)_ 'multitude') is a type of statistical [thematic map](https://en.m.wikipedia.org/wiki/Thematic\_map) that uses [pseudocolor](https://en.m.wikipedia.org/wiki/Pseudocolor), i.e., [color](https://en.m.wikipedia.org/wiki/Color) corresponding with an aggregate summary of a geographic characteristic within spatial enumeration units.
 
-![](<.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 [Source: Wikipedia](https://en.m.wikipedia.org/wiki/Choropleth\_map)
 
@@ -38,7 +38,7 @@ A family is a group of two people or more (one of whom is the householder) relat
 
 A **heat map** (or **heatmap**) is a [data visualization](https://en.m.wikipedia.org/wiki/Data\_visualization) technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by [hue](https://en.m.wikipedia.org/wiki/Hue) or [intensity](https://en.m.wikipedia.org/wiki/Brightness), giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space.
 
-![](<.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 [Source: Wikipedia](https://en.m.wikipedia.org/wiki/Heat\_map)
 

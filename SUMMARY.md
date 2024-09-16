@@ -58,12 +58,13 @@
 * [Introducing Market View](videos/introducing-market-view.md)
 * [Market View use cases](videos/market-view-use-cases.md)
 
-***
+## Info
 
-* [Glossary](glossary.md)
-* [Troubleshooting](troubleshooting/README.md)
-  * [Cannot log in](troubleshooting/cannot-log-in.md)
-  * [ZIPs without data](troubleshooting/zips-without-data.md)
-  * [Map is blank](troubleshooting/map-is-blank.md)
-* [❓ Submit a Help Ticket](https://my.nais.org/s/submit-a-ticket?category=DASL%2FMarket%20View)
-* [Release notes](release-notes.md)
+* [Glossary](info/glossary.md)
+* [Release notes](info/release-notes.md)
+* [Request a new feature](https://market-view.nolt.io/)
+* [Submit a Help Ticket](https://my.nais.org/s/submit-a-ticket?category=DASL%2FMarket%20View)
+* [Troubleshooting](info/troubleshooting/README.md)
+  * [Cannot log in](info/troubleshooting/cannot-log-in.md)
+  * [ZIPs without data](info/troubleshooting/zips-without-data.md)
+  * [Map is blank](info/troubleshooting/map-is-blank.md)

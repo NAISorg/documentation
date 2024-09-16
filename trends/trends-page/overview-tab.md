@@ -24,13 +24,13 @@ You'll see header text above the map. That's the title of the map, and also disp
 
 You'll also see a "Download" button with icon. Clicking this button will download the map exactly as shown. <mark style="color:blue;">Before downloading, make sure to adjust your settings and parameters so that the map will show the data you need.</mark> Alternatively, you can screenshot the map if you like that better.
 
-On the map, there is shape with a double blue line. This is called an [isochrone](../../glossary.md#isochrone) (ice-oh-crone).
+On the map, there is shape with a double blue line. This is called an [isochrone](../../info/glossary.md#isochrone) (ice-oh-crone).
 
 {% hint style="info" %}
-An [**isochrone map**](../../glossary.md#isochrone) is a map that depicts the a time parameter. Market View's isochrones portray an area accessible from a point within a certain time threshold.
+An [**isochrone map**](../../info/glossary.md#isochrone) is a map that depicts the a time parameter. Market View's isochrones portray an area accessible from a point within a certain time threshold.
 {% endhint %}
 
-[By our estimates](../../glossary.md#travel-time), anyone living within the area bounded by the double blue lines can commute to your school within the travel time you specified. You'll see these isochrones throughout the various pages of Market View.
+[By our estimates](../../info/glossary.md#travel-time), anyone living within the area bounded by the double blue lines can commute to your school within the travel time you specified. You'll see these isochrones throughout the various pages of Market View.
 
 At the top of the map, there is a dropdown selector. The default selection is "Total School-Age Population". Market View defines School-Age Population as 0-18. Click that menu, and you'll see other options. Selecting a different option will cause the map colors to change, reflecting the new values you've chosen.
 
@@ -70,13 +70,13 @@ You'll notice the title for the map is "Family Median Income by ZIP Code within 
 
 Let's break this down!
 
-[**Family**](../../glossary.md#family) is a census designated descriptor. It is distinct from [**household**](../../glossary.md#household). Two unmarried adults are a household. Two married adults are a family. A single adult with a biological child is a family. The census considers people living together with a blood or marriage bond a family. Otherwise, it's a household. Two unmarried adults are a household until they have a child, and then they are considered a family.
+[**Family**](../../info/glossary.md#family) is a census designated descriptor. It is distinct from [**household**](../../info/glossary.md#household). Two unmarried adults are a household. Two married adults are a family. A single adult with a biological child is a family. The census considers people living together with a blood or marriage bond a family. Otherwise, it's a household. Two unmarried adults are a household until they have a child, and then they are considered a family.
 
 You'll notice we use both designations in different places in Market View. Family income cuts off at $500,000, after that it is grouped into "$500k and over". Household income has granularity up to $750,000, after that it is grouped into "$750k and over".&#x20;
 
 Unless otherwise specified, "Family" in Market View also means "Families with children". Children are people aged 0-18.&#x20;
 
-The [**median income**](../../glossary.md#median-income) is the [income](https://en.wikipedia.org/wiki/Income) amount that divides a population into two equal groups, half having an income above that amount, and half having an income below that amount. It may differ from the [mean](https://en.wikipedia.org/wiki/Mean) (or [average](https://en.wikipedia.org/wiki/Average)) income.
+The [**median income**](../../info/glossary.md#median-income) is the [income](https://en.wikipedia.org/wiki/Income) amount that divides a population into two equal groups, half having an income above that amount, and half having an income below that amount. It may differ from the [mean](https://en.wikipedia.org/wiki/Mean) (or [average](https://en.wikipedia.org/wiki/Average)) income.
 
 
 

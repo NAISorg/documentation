@@ -10,11 +10,11 @@ description: >-
 
 The US Census happens once a decade, and the [ACS](https://nais.gitbook.io/nais/market-views-data/about-market-views-data#projections) is conducted in intervening years. In Market View, the years ending in "0" are census data, whereas data for all other years is from the [ACS](https://nais.gitbook.io/nais/market-views-data/about-market-views-data#projections).&#x20;
 
-### Population by Age Band: [EASI ](../glossary.md#easy-analytic-software-easi)Demographics <a href="#populationbyage" id="populationbyage"></a>
+### Population by Age Band: [EASI ](../info/glossary.md#easy-analytic-software-easi)Demographics <a href="#populationbyage" id="populationbyage"></a>
 
 What is it?
 
-EASI provides population estimates by age band (0-4,5-9, etc.) for the current year. These estimates are created using the 2010 census numbers, [American Community Survey](../glossary.md#american-community-survey-acs) Data, and Public Use Microdata Survey. To calculate projections, EASI uses the estimates above as a starting point and applies population component change estimates (births, deaths, migration, etc.) to move that number forward. [Read the full methodology here.](https://www.easidemographics.com/about/easiMethods.asp)
+EASI provides population estimates by age band (0-4,5-9, etc.) for the current year. These estimates are created using the 2010 census numbers, [American Community Survey](../info/glossary.md#american-community-survey-acs) Data, and Public Use Microdata Survey. To calculate projections, EASI uses the estimates above as a starting point and applies population component change estimates (births, deaths, migration, etc.) to move that number forward. [Read the full methodology here.](https://www.easidemographics.com/about/easiMethods.asp)
 
 How do we use it?
 
