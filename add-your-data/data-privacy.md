@@ -6,7 +6,7 @@ description: >-
 
 # Data privacy
 
-&#x20;Read about Market View's AI features and the privacy rules governing the data used there.
+[ Read about Market View's AI features and the privacy rules governing the data used there.](../comparisons/ai-and-data-privacy.md)
 
 ### Data access
 

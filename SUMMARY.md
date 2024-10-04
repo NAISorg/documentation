@@ -12,13 +12,13 @@
 
 * [AI Use & Sustainability](comparisons/ai-use-and-sustainability.md)
 * [Comparison Cohorts](comparisons/comparison-cohorts.md)
-* [AI & Data Privacy](comparisons/ai-and-data-privacy.md)
 * [Data used in Comparisons](comparisons/data-used-in-comparisons.md)
+* [AI & Data Privacy](comparisons/ai-and-data-privacy.md)
 
 ## Data <a href="#add-your-data" id="add-your-data"></a>
 
-* [Your school data](add-your-data/your-school-data/README.md)
-  * [View your data in Market View](add-your-data/your-school-data/view-your-data-in-market-view.md)
+* [Your admission data](add-your-data/your-admission-data/README.md)
+  * [View your data in Market View](add-your-data/your-admission-data/view-your-data-in-market-view.md)
 * [Upload spreadsheets](add-your-data/upload-spreadsheets/README.md)
   * [Upload data from spreadsheets](add-your-data/upload-spreadsheets/upload-data-from-spreadsheets.md)
   * [Troubleshooting spreadsheet uploads](add-your-data/upload-spreadsheets/troubleshooting-spreadsheet-uploads/README.md)
