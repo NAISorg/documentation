@@ -14,13 +14,13 @@ Market View sends [25 of your DASL datapoints](https://docs.marketview.nais.org/
 
 We are using OpenAI's API. We are not using ChatGPT.  We send OpenAI a list of numbers and ask it to generate an insight, which we then display on the screen to you.
 
-**Does OpenAI use my data to train its models?**
+**Does OpenAI use my data?**
 
 No.&#x20;
 
 From OpenAI: [We do not train our models on your business data by default.](#user-content-fn-1)[^1] [Unless they explicitly opt-in, organizations are opted out of data-sharing by default](#user-content-fn-2)[^2].
 
-**Does OpenAI retain my data?**
+**Does OpenAI store my data?**
 
 Yes, for thirty days.&#x20;
 
