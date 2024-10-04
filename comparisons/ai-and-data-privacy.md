@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # AI & Data Privacy
 
 Market View uses OpenAI to generate the insights we show you about your data on the [Comparisons page](https://marketview.nais.org/comparisons).
 
 **Which data is involved?**
 
-Market View sends 25 of your DASL datapoints related to financial aid. We are not sending any of your data with words in it, so no school names, other names, etc. Only a select list of numbers are shared in passing with OpenAI to generate insights.&#x20;
+Market View sends [25 of your DASL datapoints](https://docs.marketview.nais.org/nais/comparisons/data-used-in-comparisons) related to financial aid. We are not sending any of your data with words in it, so no school names, other names, etc. Only a select list of numbers are shared in passing with OpenAI to generate insights.&#x20;
 
 **What services are used?**
 

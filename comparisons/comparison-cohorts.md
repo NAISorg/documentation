@@ -2,6 +2,7 @@
 description: >-
   The Market View Comparisons report compares your school to two groups. Learn
   more about how this works.
+hidden: true
 ---
 
 # Comparison Cohorts
