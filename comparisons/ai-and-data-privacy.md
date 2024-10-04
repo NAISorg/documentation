@@ -16,11 +16,15 @@ We are using OpenAI's API. We are not using ChatGPT.  We send OpenAI a list of n
 
 **Does OpenAI use my data to train its models?**
 
-No. From OpenAI: "[We do not train our models on your business data by default."](#user-content-fn-1)[^1] ["Unless they explicitly opt-in, organizations are opted out of data-sharing by default."](#user-content-fn-2)[^2]
+No.&#x20;
+
+From OpenAI: [We do not train our models on your business data by default.](#user-content-fn-1)[^1] [Unless they explicitly opt-in, organizations are opted out of data-sharing by default](#user-content-fn-2)[^2].
 
 **Does OpenAI retain my data?**
 
-Yes, for thirty days. [OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse.](#user-content-fn-3)[^3]
+Yes, for thirty days.&#x20;
+
+From OpenAI: [OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse.](#user-content-fn-3)[^3]
 
 **How can I learn more?**
 
