@@ -6,6 +6,8 @@ description: >-
 
 # Data privacy
 
+&#x20;Read about Market View's AI features and the privacy rules governing the data used there.
+
 ### Data access
 
 Permission to sync or upload your admission data is granted by you or your school. Data refreshes needs to be triggered by you or your school. Market View will not sync data without your initiation, each data sync will need to be triggered manually by you or someone else at your school.&#x20;
@@ -26,7 +28,7 @@ NAIS has conducted security audits with an outside cybersecurity firm to review 
 
 ### User access
 
-The only users with access to Market View are paid NAIS members and premium subscribers. Your data is only accessible to users who have accounts within your school and to NAIS for debugging and analysis purposes.[ If you are curious about who has an account with your school, visit the member portal and click "roster". ](https://sso.nais.org/sso/login?appCode=Portal\&returnUrl=https:%2F%2Fmy.nais.org%2Fs%2F)
+The only users with access to Market View are paid NAIS members and premium subscribers. Your data is only accessible to users who have accounts within your school and to NAIS for debugging and analysis purposes.[ If you are curious about who has an account with your school, visit the member portal and click roster. ](https://sso.nais.org/sso/login?appCode=Portal\&returnUrl=https:%2F%2Fmy.nais.org%2Fs%2F)
 
 ### More
 

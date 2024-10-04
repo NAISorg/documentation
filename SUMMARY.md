@@ -12,6 +12,8 @@
 
 * [AI Use & Sustainability](comparisons/ai-use-and-sustainability.md)
 * [Comparison Cohorts](comparisons/comparison-cohorts.md)
+* [AI & Data Privacy](comparisons/ai-and-data-privacy.md)
+* [Data used in Comparisons](comparisons/data-used-in-comparisons.md)
 
 ## Data <a href="#add-your-data" id="add-your-data"></a>
 
