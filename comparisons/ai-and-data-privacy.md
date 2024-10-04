@@ -32,7 +32,7 @@ From OpenAI: [OpenAI may securely retain API inputs and outputs for up to 30 day
 
 **Can I opt-out of Market View Comparisons?**
 
-Yes. If you would like us to refrain from having OpenAI analyze your performance on the 25 DASL variables used by Comparisons, just let us know and we will exclude you. Email wilkinson@nais.org to opt-out.
+Yes. If you would like us to refrain from having OpenAI analyze the 25 DASL variables used by Comparisons, just let us know and we will exclude you. Email wilkinson@nais.org to opt-out.
 
 [^1]: [https://openai.com/enterprise-privacy/](https://openai.com/enterprise-privacy/)
 
