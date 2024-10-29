@@ -12,9 +12,9 @@ To add AI Insights to your Comparisons, Market View sends [25 of your DASL datap
 
 We are using OpenAI's API. We are not using ChatGPT.  We send OpenAI a list of numbers and ask it to generate an insight, which we then display on the screen to you.
 
-**OpenAI does not use your data to train their models.** From OpenAI: [We do not train our models on your business data by default.](#user-content-fn-1)[^1] [Unless they explicitly opt-in, organizations are opted out of data-sharing by default](#user-content-fn-2)[^2].
+**OpenAI does not use your data to train their models.** From OpenAI: [We do not train our models on your business data by default. ](https://openai.com/enterprise-privacy/)[Unless they explicitly opt-in, organizations are opted out of data-sharing by default.](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance)
 
-OpenAI temporarily stores your data on their servers for 30 days. This is standard practice for web services so they can have a paper trail to protect against nefarious use. From OpenAI: [OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse.](#user-content-fn-3)[^3]
+OpenAI temporarily stores your data on their servers for 30 days. This is standard practice for web services so they can have a paper trail to protect against nefarious use. From OpenAI: [OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse.](https://openai.com/enterprise-privacy/)
 
 [Read more at OpenAI's Enterprise privacy document.](https://openai.com/enterprise-privacy/) Please note that this is different than their ChatGPT offering, ChatGPT is much less private.
 
@@ -51,9 +51,3 @@ How long is data retained? Where? Is any data such as prompts cached for perform
 What steps (if any) have been implemented to reduce bias in AI generated output?
 
 * Since this is a very small set of anonymous numeric financial data, there is no concern about biased output.
-
-[^1]: [https://openai.com/enterprise-privacy/](https://openai.com/enterprise-privacy/)
-
-[^2]: [https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance)
-
-[^3]: [https://openai.com/enterprise-privacy/](https://openai.com/enterprise-privacy/)
