@@ -18,7 +18,7 @@ OpenAI temporarily stores your data on their servers for 30 days. This is standa
 
 [Read more at OpenAI's Enterprise privacy document.](https://openai.com/enterprise-privacy/) Please note that this is different than their ChatGPT offering, ChatGPT is much less private.
 
-## Q\&A
+## Questions and Answers
 
 Which subprocessor(s) is/are being used to produce AI-generated completions?
 
