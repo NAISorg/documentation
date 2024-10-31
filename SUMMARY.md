@@ -10,6 +10,7 @@
 
 ## Comparisons
 
+* [Comparisons' AI Insights Feature](comparisons/comparisons-ai-insights-feature.md)
 * [AI Use & Sustainability](comparisons/ai-use-and-sustainability.md)
 * [Comparison Cohorts](comparisons/comparison-cohorts.md)
 * [Data used in Comparisons](comparisons/data-used-in-comparisons.md)
