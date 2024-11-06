@@ -68,6 +68,7 @@
 * [Request a new feature](https://market-view.nolt.io/)
 * [Submit a Help Ticket](https://my.nais.org/s/submit-a-ticket?category=DASL%2FMarket%20View)
 * [Troubleshooting](info/troubleshooting/README.md)
+  * [Cannot dismiss welcome modal popup](info/troubleshooting/cannot-dismiss-welcome-modal-popup.md)
   * [Cannot log in](info/troubleshooting/cannot-log-in.md)
   * [ZIPs without data](info/troubleshooting/zips-without-data.md)
   * [Map is blank](info/troubleshooting/map-is-blank.md)
