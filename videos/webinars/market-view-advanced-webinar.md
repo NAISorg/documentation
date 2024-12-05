@@ -1,3 +1,4 @@
 # Market View advanced webinar
 
-{% embed url="https://www.youtube.com/watch?v=0KPg5Sli6ls" %}
+{% embed url="https://youtu.be/8zjIXTcQrt8" %}
+
