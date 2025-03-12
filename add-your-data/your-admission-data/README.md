@@ -2,7 +2,11 @@
 description: How to add data to Market View
 ---
 
-# Your school data
+# Your admission data
+
+{% embed url="https://www.loom.com/share/51ad6a056a064293a8800ed6591fedfc?sid=33424bc6-ea29-408d-a37e-6a75ab7bb6e7" %}
+Introduction to Your Student Data in Market View
+{% endembed %}
 
 There are two types of data you can add to Market View, student and miscellaneous.
 
