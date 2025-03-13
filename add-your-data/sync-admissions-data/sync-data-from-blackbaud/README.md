@@ -34,7 +34,7 @@ Find the role in the list and choose Manage Roles from the menu.
 
 Go to Members, Add member and search for yourself to add.
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 
 
@@ -52,10 +52,10 @@ This step must be performed by one of your school’s administrators of Blackbau
 {% endhint %}
 
 * [ ] Log into Blackbaud.
-* [ ] Click this link: [https://app.blackbaud.com/marketplace/applications/442d9d54-20c1-4d72-9f82-be631861a49d?envid=t-f-g5WCInc0Gkwv\_5fvgxjA](https://app.blackbaud.com/marketplace/applications/442d9d54-20c1-4d72-9f82-be631861a49d?envid=t-f-g5WCInc0Gkwv\_5fvgxjA)
+* [ ] Click this link: [https://app.blackbaud.com/marketplace/applications/442d9d54-20c1-4d72-9f82-be631861a49d?envid=t-f-g5WCInc0Gkwv\_5fvgxjA](https://app.blackbaud.com/marketplace/applications/442d9d54-20c1-4d72-9f82-be631861a49d?envid=t-f-g5WCInc0Gkwv_5fvgxjA)
 * [ ] You should see something like this
 
-![](../../../.gitbook/assets/Fullscreen\_8\_17\_22\_\_3\_21\_PM.png)
+![](../../../.gitbook/assets/Fullscreen_8_17_22__3_21_PM.png)
 
 * [ ] Click "Connect"/ "Get Started"
 * [ ] Follow the steps to finishing adding Market View as an integration partner
@@ -72,7 +72,7 @@ This step requires an admin user of Blackbaud with one of the following roles: A
 * [ ] A window should pop open where you can log in with your Blackbaud credentials
 * [ ] You should be routed back to Market View. Congratulations!
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ## Next steps
 

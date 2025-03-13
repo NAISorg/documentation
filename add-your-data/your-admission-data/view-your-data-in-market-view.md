@@ -13,7 +13,7 @@ There are three places your school's data appears in Market View: the map in Map
 * [ ] Click the layer selector in the upper right corner and you'll see each of your data sets with a checkbox next to it.&#x20;
 * [ ] Click the checkbox to hide or show the data set. Note that the color of the icon matches the color of the pins on the map.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Your data is grouped into two categories in the layer selector panel, Admissions Data and Enrollment Data. Those two categories reflect the two categories of data you can add in the Your Data page.
 
@@ -29,7 +29,7 @@ You'll see two groups: Admissions Data and Miscelleneous Data. Those reflect the
 
 You'll also get calculations for your Admissions Data for the most recent two years. Total applicants, the percent of your applications which came from this ZIP, and the percent of school-age children from this ZIP who applied to your school.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Viewing your school's data in the ZIP code cards</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Viewing your school's data in the ZIP code cards</p></figcaption></figure>
 
 ## Viewing your data in charts
 

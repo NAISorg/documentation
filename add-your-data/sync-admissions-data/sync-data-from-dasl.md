@@ -20,7 +20,7 @@ You'll see a notification at the bottom of your screen when the import is comple
 
 If there is a conflict between the data you uploaded to Market View and the data you input into DASL, you'll see an icon with red crossed arrows. When you click that symbol, it will tell you which numbers are a mismatch. In the example below, you uploaded 232 for that variable, but you entered 89 into DASL. You cannot edit DASL data in Market View, but there is a handy link for you to edit each variable in DASL. "Edit on DASL" is the hyperlink you can click to fix DASL numbers. It will bring you directly to the exact cell you can edit.
 
-<img src="../../.gitbook/assets/image (14).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 
 
@@ -36,7 +36,7 @@ The national averages included in these charts are the national average for scho
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Full table of DASL data available to import
 

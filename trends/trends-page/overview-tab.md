@@ -1,6 +1,6 @@
 # Overview tab
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Market View Trends > Overview tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Market View Trends > Overview tab</p></figcaption></figure>
 
 Look below the query paragraph in the blue header, and you'll see the [**Overview**](https://marketview.nais.org/trends) tab highlighted.
 
@@ -8,7 +8,7 @@ The [**Overview**](https://marketview.nais.org/trends) tab has three topics: [**
 
 ## Population data
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ### The map
 
@@ -36,7 +36,7 @@ At the top of the map, there is a dropdown selector. The default selection is "T
 
 If you hover your mouse over a ZIP on the map, you'll see a small white box appear in the upper right corner of the map. In the screenshot below, the user is hovering over Riverdale and so the box in the upper right shows the value Riverdale has for the selected value. In this case, "Enrolled PK-12 Private Schools".
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 In the box in the upper right, "20737" is the ZIP Code, "Riverdale" is the locality name, and "619" is the number of children in that ZIP enrolled in PK-12 Private Schools.&#x20;
 
@@ -62,7 +62,7 @@ At the bottom of the page, you'll find suggestions for next steps. These suggest
 
 ## Income data
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Overview > Income Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Overview > Income Data</p></figcaption></figure>
 
 The [Income Data subtab](https://marketview.nais.org/trends/summary/income) empowers you to analyze median income in your area.
 
@@ -84,7 +84,7 @@ The [**median income**](../../info/glossary.md#median-income) is the [income](ht
 
 ## Diversity data
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Overview > Diversity Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Overview > Diversity Data</p></figcaption></figure>
 
 The [Diversity Data subtab](https://marketview.nais.org/trends/summary/diversity) offers an overview of the racial and ethnic breakdown  within the selected rive-time parameter, set above.&#x20;
 

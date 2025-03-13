@@ -62,7 +62,7 @@ Note: this integration doesn't require SSO permissions.
 * [ ] Click the green "Update" button at the top
 * [ ] Keep your Veracross tab open, you'll need to copy and paste from this page into Market View.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Adding scopes in Veracross</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Adding scopes in Veracross</p></figcaption></figure>
 
 ### Step 3: Add Veracross details to Market View <a href="#step-2" id="step-2"></a>
 

@@ -6,13 +6,13 @@ description: >-
 
 # Trends page
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>"Trends" selected in the Market View top level navigation menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>"Trends" selected in the Market View top level navigation menu</p></figcaption></figure>
 
 
 
 {% hint style="info" %}
 [**In-app Guidance**\
-If you prefer, we now offer an in-app self guided tour of the Trends page. Click here for that, or keep reading for a traditional walkthrough!](https://marketview.nais.org/trends?product\_tour\_id=428516)
+If you prefer, we now offer an in-app self guided tour of the Trends page. Click here for that, or keep reading for a traditional walkthrough!](https://marketview.nais.org/trends?product_tour_id=428516)
 {% endhint %}
 
 
@@ -31,7 +31,7 @@ In Market View, all charts, graphs, tables, and maps are customized for your sch
 
 ## Customize your query
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Query settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Query settings</p></figcaption></figure>
 
 * Customize the drive time query (choose a ten minute increment between 10-60 minutes)
 * Customize the tuition level (input any dollar amount you'd like to research)
@@ -45,7 +45,7 @@ Or, feel free to proceed without any customization! This query paragraph will al
 
 ## Filter your data
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Filtering options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Filtering options</p></figcaption></figure>
 
 Depending on where your school is, you may have a lot of ZIP codes in proximity. Market View lets you filter the data and focus on the most impactful areas. Click on the "**113 ZIP codes"** text and you'll see a list of all the ZIPs included in your search, as well as their neighborhood names.&#x20;
 
@@ -65,6 +65,6 @@ If you make selections using these filters, all other ZIPs will be hidden from t
 Don't be surprised to see a map with a lot of holes in it! The map below shows the thirty ZIPs (in blue) with the most children within an hour of the NAIS office.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Trends > Overview > Population Data map</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Trends > Overview > Population Data map</p></figcaption></figure>
 
 Let's move on to the results!

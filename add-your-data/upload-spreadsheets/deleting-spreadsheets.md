@@ -6,4 +6,4 @@ When viewing your admission data, click on the name of the spreadsheet you want 
 
 Then click on the triple dot menu by the file name, and click "Delete".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
