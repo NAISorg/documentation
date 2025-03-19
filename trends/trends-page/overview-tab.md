@@ -1,6 +1,6 @@
 # Overview tab
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Market View Trends > Overview tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Market View Trends > Overview tab</p></figcaption></figure>
 
 Look below the query paragraph in the blue header, and you'll see the [**Overview**](https://marketview.nais.org/trends) tab highlighted.
 

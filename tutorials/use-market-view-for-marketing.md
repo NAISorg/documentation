@@ -18,7 +18,7 @@ The Post Office will let you select individual postal routes to include. This is
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Post Office direct mail service</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Post Office direct mail service</p></figcaption></figure>
 
 
 
