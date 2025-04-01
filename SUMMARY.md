@@ -41,7 +41,7 @@
 * [Market View's data](market-views-data/README.md)
   * [Download Market View's data](market-views-data/download-market-views-data.md)
   * [COVID's Impact on Data](market-views-data/covids-impact-on-data.md)
-  * [Citing Market view](market-views-data/citing-market-view.md)
+  * [Citing Market View](market-views-data/citing-market-view.md)
   * [Data Guide](market-views-data/data-guide.md)
 
 ## Tutorials
