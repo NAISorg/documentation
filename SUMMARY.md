@@ -66,6 +66,7 @@
 ## Info
 
 * [Glossary](info/glossary.md)
+* ["Library" page](info/library-page.md)
 * [Release notes](info/release-notes.md)
 * [Request a new feature](https://market-view.nolt.io/)
 * [Submit a Help Ticket](https://my.nais.org/s/submit-a-ticket?category=DASL%2FMarket%20View)
