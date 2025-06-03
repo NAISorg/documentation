@@ -2,7 +2,6 @@
 description: >-
   We use 25 DASL data points to generate what you see in Market View
   Comparisons.
-hidden: true
 noIndex: true
 ---
 

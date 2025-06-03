@@ -2,7 +2,6 @@
 description: >-
   AI computing power can be resource-intensive. Read how Market View approaches
   sustainability and AI tech.
-hidden: true
 ---
 
 # AI Use & Sustainability

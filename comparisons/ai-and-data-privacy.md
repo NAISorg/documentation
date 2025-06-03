@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # AI & Data Privacy
 
 Market View uses OpenAI to generate the insights we show you about your data on the [Comparisons page](https://marketview.nais.org/comparisons).
